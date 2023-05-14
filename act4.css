@@ -1,0 +1,107 @@
+body
+{
+background-color:#b6baff;
+ margin:auto;
+ background-image: url("R.png");
+ background-size: cover;
+ background-attachment: fixed;
+
+}
+div.bod {
+    border:3px double #000000 ;
+    width: 900px;
+    margin-left: 80px;
+    margin-top: 0px;
+    margin-bottom: 80px;
+    background-color:#c1ebff;
+    font-family: constantia;
+     list-style-type:disc ;
+  }
+  h2.title
+{
+  font-family:arial;
+  color: #0c1157;
+}
+img.usthb
+{
+	margin-left:1100px;
+  margin-top: 40px;
+
+ 
+}
+details > summary{
+  padding: 10px;
+  width: 200px;
+  background-color:#bfedff;
+  border:3px double #000000;
+  box-shadow: 0px 0px 0px #000000;
+  cursor: pointer;
+  font-weight:bold;
+  font-size:20px;
+  border-radius:10px 25px 10px 25px;
+  box-shadow:0px 0px 14px #1002ca;
+  margin-top: 0px;
+  margin-left: 20px;
+
+ 
+}
+summary.title
+{
+  color:rgb(0, 34 ,89);
+  font-family: constantia;
+display: inline;
+}
+
+details > summary.title_b {
+  padding: 2px;
+  width: 200px;
+  background-color:#2a70f3 ;
+  border:3px double #000000 ;
+  box-shadow: 0px 0px 0px ;
+  cursor: pointer;
+  margin-left:50px;
+  font-weight:10;
+  font-size:19px;
+  border-radius:15px;
+  box-shadow:2px 2px 10px #fffb04;
+  font-family: constantia;
+  margin-top: 10px;
+}
+div.Body {
+  border:3px double #000000 ;
+  width: 800px;
+  margin-left: 80px;
+  margin-top: 20px;
+  background-color:#363291;
+  font-family: constantia;
+   list-style-type:disc ;
+}
+h2.text
+{
+  color: #ffffff;
+  margin-left: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3.text
+{
+  color: #ffffff;
+  margin-left: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img.internet
+{
+  margin-left: 100px;
+  margin-top: 50px;
+}
+h1.textb
+{
+  margin-left: 300px;
+  color: #fff67e;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h4.text
+{
+  color: #262ea3;
+  margin-left: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
